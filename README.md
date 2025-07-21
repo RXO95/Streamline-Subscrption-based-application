@@ -2,6 +2,14 @@
 
 **Streamline** is a subscription-based app developed using [FlutterFlow](https://flutterflow.io), providing a user-friendly interface to explore and manage streaming service subscriptions. The app includes user authentication, Google Sign-In, responsive UI, and subscription selection dialogs.
 
+![welcomepage](screenshots/welcomepage.gif)
+
+![welcomepage](screenshots/Screenshot2.png)
+
+![welcomepage](screenshots/screenshot3.png)
+
+
+
 ## Features
 
 - User authentication (Login & Signup)
